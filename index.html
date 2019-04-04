@@ -39,6 +39,7 @@
     <script>
         var owlClicks = 0;
         var isShocked = false;
+        var cursorIsOverOwl=false;
     </script>
 </head>
 <body class="text-center">
@@ -48,14 +49,15 @@
             <h3 class="masthead-brand">
 
                 <img src="drawing.svg" style="width: 2em;"
-                     onmouseover="{this.src='drawingschlitz.svg'}"
+                     onmouseover="{this.src='drawingschlitz.svg'; cursorIsOverOwl=true;}"
                      onmouseout="{
+                    cursorIsOverOwl=false;
                           if(isShocked) {
                               this.src='drawing.svg';
                               isShocked=false;
                               owlClicks=0;
                           } else {
-                            this.src='drawingsad.svg'; setTimeout(()=>this.src='drawing.svg',1000)
+                            this.src='drawingsad.svg'; setTimeout(()=>{if(!cursorIsOverOwl) this.src='drawing.svg'},1000)
                           }
                     }"
                      onclick="{if(++owlClicks%3===0){ this.src='drawing_hover.svg';

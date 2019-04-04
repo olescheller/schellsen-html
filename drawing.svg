@@ -15,7 +15,7 @@
         version="1.1"
         id="svg8"
         inkscape:version="0.92.3 (2405546, 2018-03-11)"
-        sodipodi:docname="drawing2.svg">
+        sodipodi:docname="drawing4.svg">
   <defs
           id="defs2">
     <inkscape:perspective
@@ -33,9 +33,9 @@
           borderopacity="1.0"
           inkscape:pageopacity="0.0"
           inkscape:pageshadow="2"
-          inkscape:zoom="0.70710678"
-          inkscape:cx="320.66888"
-          inkscape:cy="186.54688"
+          inkscape:zoom="1.4142136"
+          inkscape:cx="288.12437"
+          inkscape:cy="254.36471"
           inkscape:document-units="mm"
           inkscape:current-layer="layer1-8"
           showgrid="true"
@@ -115,7 +115,7 @@
               height="19.678223"
               width="19.678223"
               id="rect4579-8-8-6"
-              style="opacity:1;fill:#bdb53d;fill-opacity:1;stroke:#190404;stroke-width:0.00030232;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+              style="opacity:1;fill:#f6e915;fill-opacity:1;stroke:#190404;stroke-width:0.00030232;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
               style="opacity:1;fill:#000000;fill-opacity:0;stroke:#190404;stroke-width:0.00186919;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
               d="m -160.90761,307.23186 c -12.39677,-16.7945 -22.94471,-31.19426 -23.43986,-31.99948 -0.8203,-1.334 1.15423,-4.24718 22.23176,-32.80016 12.7226,-17.23487 23.44097,-31.33613 23.81858,-31.33613 1.03984,0 46.917417,62.44308 46.556895,63.36769 -0.279814,0.71765 -44.919555,61.45352 -46.133365,62.76808 -0.27193,0.29449 -10.63723,-13.20551 -23.03401,-30 z"
@@ -123,7 +123,7 @@
               inkscape:connector-curvature="0"
               transform="matrix(0.26458333,0,0,0.26458333,57.30879,44.670476)" />
       <path
-              style="opacity:1;fill:#979131;fill-opacity:1;stroke:#190404;stroke-width:0.00029628;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+              style="opacity:1;fill:#000000;fill-opacity:0.19607843;stroke:#190404;stroke-width:0.00029628;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
               d="m 120.1893,86.832285 -0.0388,0.05168 v 31.362425 l 0.0388,0.0517 11.81996,-15.73289 z"
               id="rect4579-8-8-6-0"
               inkscape:connector-curvature="0" />
